@@ -1,4 +1,5 @@
-### Hi there 👋
+Hi there 👋 <br>
+🌱 I’m currently mastering css, then I will learn & master javascript. 
 
 <!--
 **rraammsseeyy/rraammsseeyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
