@@ -1,5 +1,5 @@
 Hi there 👋 <br>
-🌱 I’m currently mastering css, then I will learn & master javascript. 
+🌱 I’m interested in web dev 
 
 <!--
 **rraammsseeyy/rraammsseeyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
