@@ -1,5 +1,5 @@
 Hi there 👋 <br>
-🌱 I’m interested in web dev 
+🌱 I’m a Software Engineer, specializing in Web Development. 
 
 <!--
 **rraammsseeyy/rraammsseeyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
