@@ -1,5 +1,12 @@
 Hi there 👋 <br>
-🌱 I’m a Software Engineer.
+
+My name is Ransom Philemon, 🌱 I’m a Software Engineer, and I’m part of the team behind an innovative project called Zitopy Tech— you can learn more at zitopy.com
+
+In addition to this, I have a strong passion for software development, whether web or mobile app development, and I take pride in creating functional and user-friendly digital experiences.
+
+Feel free to explore my work at ransomphilemon.tech
+
+ 👯 I’m looking to collaborate on any software projects.
 
 <!--
 **rraammsseeyy/rraammsseeyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
